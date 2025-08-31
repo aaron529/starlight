@@ -33,6 +33,10 @@ export default defineConfig({
               label: "Placeholders",
               link: "/guides/liarslounge/placeholders/",
             },
+            {
+              label: "Terms & Conditions",
+              link: "/guides/liarslounge/terms-conditions/",
+            },
             // {
             //   label: "Troubleshooting",
             //   link: "/guides/liarslounge/troubleshooting/",
