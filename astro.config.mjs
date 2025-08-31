@@ -7,7 +7,14 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Documentation",
-      social: [{ icon: "github", label: "GitHub", href: "#" }, { icon: "discord", label: "Discord", href: "https://discord.gg/rsYRdv8hJM" }],
+      social: [
+        { icon: "github", label: "GitHub", href: "#" },
+        {
+          icon: "discord",
+          label: "Discord",
+          href: "https://discord.gg/rsYRdv8hJM",
+        },
+      ],
       sidebar: [
         {
           label: "LiarsLounge",
@@ -32,6 +39,10 @@ export default defineConfig({
             {
               label: "Placeholders",
               link: "/guides/liarslounge/placeholders/",
+            },
+            {
+              label: "Messages",
+              link: "/guides/liarslounge/messages/",
             },
             {
               label: "Terms & Conditions",
