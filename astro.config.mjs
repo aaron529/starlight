@@ -16,7 +16,7 @@ export default defineConfig({
         { tag: "meta", attrs: { property: "og:image", content: "https://images.polymart.org/product/8361/header.png?t=1756652074&v=3" } },
         { tag: "meta", attrs: { name: "theme-color", content: "#ea6033" } },
         { tag: "meta", attrs: { name: "twitter:card", content: "summary_large_image" } }
-      ]
+      ],
       social: [
         { icon: "github", label: "GitHub", href: "#" },
         {
