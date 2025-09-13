@@ -6,7 +6,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      //title: "LiarsLounge",
+      title: "LiarsLounge",
       //description:
       //  "LiarsLounge brings the psychological thriller of the popular Steam game Liar’s Bar directly into your Minecraft server. Challenge players to outsmart, outbluff, and outlast their opponents in this high-stakes game of deception and strategy.",
       //head: [
