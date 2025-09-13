@@ -7,16 +7,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "LiarsLounge",
-      //description:
-      //  "LiarsLounge brings the psychological thriller of the popular Steam game Liar’s Bar directly into your Minecraft server. Challenge players to outsmart, outbluff, and outlast their opponents in this high-stakes game of deception and strategy.",
-      //head: [
-      //  { tag: "meta", attrs: { property: "og:title", content: "🪓 LiarsLounge - Bluff, Betray & Survive" } },
-      //  { tag: "meta", attrs: { property: "og:description", content: "LiarsLounge brings the psychological thriller of the popular Steam game Liar’s Bar directly into your Minecraft server. Challenge players to outsmart, outbluff, and outlast their opponents in this high-stakes game of deception and strategy." } },
-      //  { tag: "meta", attrs: { property: "og:url", content: "https://kooy29.netlify.app/" } },
-      //  { tag: "meta", attrs: { property: "og:image", content: "https://images.polymart.org/product/8361/header.png?t=1756652074&v=3" } },
-      //  { tag: "meta", attrs: { name: "theme-color", content: "#ea6033" } },
-      //  { tag: "meta", attrs: { name: "twitter:card", content: "summary_large_image" } }
-      //],
       social: [
         { icon: "github", label: "GitHub", href: "#" },
         {
